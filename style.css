@@ -1,0 +1,93 @@
+    body {
+        background-color: #ffffff;
+        color: #000000;
+        margin: 1% 5%;
+    }
+    
+    nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    [alt="brand-logo"] {
+        margin-top: 20px;
+    }
+    
+    .list {
+        margin-right: 400px;
+        display: flex;
+        flex-direction: row;
+        list-style-type: none;
+        width: 600px;
+        height: 40px;
+        font-size: 25px;
+        font-weight: 2px;
+        color: #0101018a;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+    
+    .list-item:hover {
+        text-shadow: #010101;
+        text-decoration: #5c0be8;
+        font-weight: 600;
+    }
+    
+    .button-group {
+        margin: auto;
+        display: block;
+    }
+    
+    .nav-button {
+        background-color: #7c3ed8;
+        color: #ffffff;
+        width: 110px;
+        height: 50px;
+        font-size: 15px;
+        border-radius: 0.6em;
+    }
+    
+    .banner-container {
+        height: 600px;
+    }
+    
+    .heading-text {
+        width: 570px;
+        height: 300px;
+        font-size: 70px;
+        margin-top: 150px;
+        color: #261249;
+        left: 20px;
+    }
+    
+    p {
+        width: 550px;
+        height: 50px;
+    }
+    
+    .description {
+        margin-left: 2px;
+        margin-top: -50px;
+    }
+    
+    span {
+        color: #7c3ed8;
+    }
+    
+    .banner-container button {
+        background-color: #7c3ed8;
+        color: #ffffff;
+        width: 220px;
+        height: 60px;
+        font-size: 20px;
+        border-radius: 0.6em;
+        margin-left: 150px;
+        margin-top: 90px;
+    }
+    
+    [alt="illustration"] {
+        position: absolute;
+        right: 0px;
+        top: 130px;
+    }
