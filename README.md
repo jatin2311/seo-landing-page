@@ -3,16 +3,15 @@
 
 ## About this Project
 - This Project is build by Using Html and CSS .                
-- This is a home page of Saas .
-- i use most of flexbox in this project and also it's  mobile responsive.  
+- This is a home page of SEO .
+ 
 
 ---
 
 ### Learn From This Project
 - i learn about Flex box in this project.
-- i  also learn about z-index & linear gradient.
-- i also learn about media query and how to create break-points for diffrent screens.
-- i also utilize grid and also learn about it.
+- i also explored flexbox much.
+- used position and properties of it.
 
 #### Time-Taken
 - it takes almost 1-2 hours to complete this project.
